@@ -66,7 +66,7 @@ We are a collaborative collective of full-stack developers, frontend specialists
 <div align="center">
 
 | # | Callsign | Primary Expertise | GitHub |
-|:---:|:---|:---|:---|:---:|
+|:---:|:---|:---|:---:|
 | 01 | 🐺 **ATHEX** | MASTER MIND | [![GitHub](https://img.shields.io/badge/Athexblackhat-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/Athexblackhat) |
 | 02 | 💀 **NEXREAPER** | MASTER MIND | [![GitHub](https://img.shields.io/badge/NEXREAPER-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/NEXREAPER) |
 | 03 | ⚡ **ZYLON** | MASTER MIND| ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
