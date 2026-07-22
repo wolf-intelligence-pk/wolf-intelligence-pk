@@ -111,16 +111,15 @@ We are a collaborative collective of full-stack developers, frontend specialists
 ![Badge](https://img.shields.io/badge/SECURITY%20RESEARCHER-000000?style=for-the-badge&logo=hackthebox&logoColor=00fff2)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+<img src="https://github.com/Athexblackhat.png" width="180" style="border-radius:50%;" alt="ATHEX avatar"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
 <img src="https://streak-stats.demolab.com?user=Athexblackhat&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
 </div>
 
@@ -144,16 +143,15 @@ We are a collaborative collective of full-stack developers, frontend specialists
 ![Badge](https://img.shields.io/badge/RED%20TEAM%20OPERATIVE-000000?style=for-the-badge&logo=hackthebox&logoColor=00fff2)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NEXREAPER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+<img src="https://github.com/NEXREAPER.png" width="180" style="border-radius:50%;" alt="NEXREAPER avatar"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github.com/NEXREAPER.png" width="140" style="border-radius:50%;" alt="NEXREAPER avatar"/>
 <img src="https://streak-stats.demolab.com?user=NEXREAPER&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
 </div>
 
