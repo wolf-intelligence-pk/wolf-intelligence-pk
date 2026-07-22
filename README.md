@@ -72,12 +72,12 @@ We are a collaborative collective of full-stack developers, frontend specialists
 | 03 | ⚡ **ZYLON** | Backend Engineering | Systems Architecture, Database | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 | 04 | 🎯 **MR ZER0** | Exploit Development | Vulnerability Research | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 | 05 | 🕵️ **MR SPY** | OSINT Research | Reconnaissance | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 06 | 🔥 **HALAKU** | Network Security | Infrastructure Management| ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 06 | 🔥 **HALAKU** | Network Security | Infrastructure Management | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 | 07 | 🅰️ **ALPHA** | Strategy & Operations | Project Coordination, Quality Assurance | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 08 | 👑 **LEGEND** | Development | Code Review| ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 08 | 👑 **LEGEND** | Development | Code Review | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 | 09 | 🧠 **CHUHAN** | Frontend Engineering | UI/UX Design, Client-Side Systems | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 | 10 | 🛡️ **ABHEE BHAI** | Application Security | Code Auditing, Secure Development | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 11 | 🐍 **SYCO PATHAN** | Front End Dev | OSINT  | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 11 | 🐍 **SYCO PATHAN** | Front End Dev | OSINT | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 | 12 | 😈 **BAD BOY** | Attacker | Automation, Scripting, R&D | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 | 13 | 🌐 **CYBER ARBAB** | Web Pentester | Exploit Research | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 
@@ -113,20 +113,24 @@ We are a collaborative collective of full-stack developers, frontend specialists
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats-eight-ivory.vercel.app/api?username=Athexblackhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats-eight-ivory.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
 <img src="https://streak-stats.demolab.com?user=Athexblackhat&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="100%"/>
 </div>
 
 <br/>
 
-### ### 💀 NEXREAPER
+### 💀 NEXREAPER
 
 <table align="center">
 <tr>
@@ -142,32 +146,7 @@ We are a collaborative collective of full-stack developers, frontend specialists
 </td>
 <td width="50%" valign="top">
 
-<!-- Try this alternative stats API -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NEXREAPER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NEXREAPER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
-<img src="https://streak-stats.demolab.com?user=NEXREAPER&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-stats-eight-ivory.vercel.app/api/top-langs/?username=NEXREAPER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
-<img src="https://streak-stats.demolab.com?user=NEXREAPER&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="100%"/>
-</div>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=NEXREAPER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
@@ -175,11 +154,11 @@ We are a collaborative collective of full-stack developers, frontend specialists
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEXREAPER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NEXREAPER&theme=tokyonight&hide_border=true&background=0d1117&stroke=00fff2&ring=00fff2&fire=00fff2&currStreakLabel=00fff2" width="47%"/>
+<img src="https://streak-stats.demolab.com?user=NEXREAPER&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NEXREAPER&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="100%"/>
 </div>
 
 ---
