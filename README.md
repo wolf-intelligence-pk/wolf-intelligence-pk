@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0d1b2a,100:00fff2&height=300&section=header&text=WOLF%20INTELLIGENCE%20COLLECTIVE&fontSize=42&fontColor=00fff2&animation=fadeIn&fontAlignY=35&desc=One%20Team.%20One%20Mind.%20One%20Mission.&descAlignY=52&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Full-Stack+Engineering+%7C+Frontend+%7C+Backend+%7C+DevOps;Security+Research+%7C+Penetration+Testing+%7C+Threat+Intel;Thirteen+minds.+One+collective.+Zero+hierarchy." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Full-MATER-MIND" alt="Typing SVG" />
 
 <br/>
 
@@ -67,19 +67,19 @@ We are a collaborative collective of full-stack developers, frontend specialists
 
 | # | Callsign | Primary Expertise | Secondary Skills | GitHub |
 |:---:|:---|:---|:---|:---:|
-| 01 | 🐺 **ATHEX** | Full-Stack Development | Security Research, System Architecture | [![GitHub](https://img.shields.io/badge/Athexblackhat-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/Athexblackhat) |
-| 02 | 💀 **NEXREAPER** | Penetration Testing | Red Team Operations, Security Auditing | [![GitHub](https://img.shields.io/badge/NEXREAPER-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/NEXREAPER) |
-| 03 | ⚡ **ZYLON** | Backend Engineering | Systems Architecture, Database | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 04 | 🎯 **MR ZER0** | Exploit Development | Vulnerability Research | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 05 | 🕵️ **MR SPY** | OSINT Research | Reconnaissance | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 06 | 🔥 **HALAKU** | Network Security | Infrastructure Management | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 07 | 🅰️ **ALPHA** | Strategy & Operations | Project Coordination, Quality Assurance | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 08 | 👑 **LEGEND** | Development | Code Review | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 09 | 🧠 **CHUHAN** | Frontend Engineering | UI/UX Design, Client-Side Systems | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 10 | 🛡️ **ABHEE BHAI** | Application Security | Code Auditing, Secure Development | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 11 | 🐍 **SYCO PATHAN** | Front End Dev | OSINT | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 12 | 😈 **BAD BOY** | Attacker | Automation, Scripting, R&D | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 13 | 🌐 **CYBER ARBAB** | Web Pentester | Exploit Research | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 01 | 🐺 **ATHEX** | MASTER MIND | [![GitHub](https://img.shields.io/badge/Athexblackhat-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/Athexblackhat) |
+| 02 | 💀 **NEXREAPER** | MASTER MIND | [![GitHub](https://img.shields.io/badge/NEXREAPER-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/NEXREAPER) |
+| 03 | ⚡ **ZYLON** | MASTER MIND| ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 04 | 🎯 **MR ZER0** | MASTER MIND |  ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 05 | 🕵️ **MR SPY** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 06 | 🔥 **HALAKU** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 07 | 🅰️ **ALPHA** | MASTER MIND |  ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 08 | 👑 **LEGEND** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 09 | 🧠 **CHUHAN** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 10 | 🛡️ **ABHEE BHAI** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 11 | 🐍 **SYCO PATHAN** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 12 | 😈 **BAD BOY** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 13 | 🌐 **CYBER ARBAB** | MASTER MIND |[Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 
 </div>
 
