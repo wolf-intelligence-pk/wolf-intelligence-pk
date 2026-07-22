@@ -1,18 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0d1b2a,100:00fff2&height=280&section=header&text=WOLF%20INTELLIGENCE%20COLLECTIVE&fontSize=44&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Collaborative%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Security%20Research&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0d1b2a,100:00fff2&height=300&section=header&text=WOLF%20INTELLIGENCE%20COLLECTIVE&fontSize=42&fontColor=00fff2&animation=fadeIn&fontAlignY=35&desc=One%20Team.%20One%20Mind.%20One%20Mission.&descAlignY=52&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&width=800&lines=Every+member+an+equal.+Every+skill+valued.;Full-Stack+%7C+Frontend+%7C+Backend+%7C+Security+%7C+Tools;Building+solutions.+Researching+responsibly.;Welcome+to+the+Collective." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Full-Stack+Engineering+%7C+Frontend+%7C+Backend+%7C+DevOps;Security+Research+%7C+Penetration+Testing+%7C+Threat+Intel;Thirteen+minds.+One+collective.+Zero+hierarchy." alt="Typing SVG" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Athexblackhat&label=COLLECTIVE%20VIEWS&color=00fff2&style=for-the-badge)
-![GitHub Org](https://img.shields.io/badge/COLLECTIVE-WOLF%20INTELLIGENCE%20COLLECTIVE-0d1117?style=for-the-badge&labelColor=000000&color=00fff2)
+![Members](https://img.shields.io/badge/MEMBERS-13-0d1117?style=for-the-badge&labelColor=000000&color=00fff2)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-39ff14?style=for-the-badge&labelColor=000000)
+![Structure](https://img.shields.io/badge/STRUCTURE-FLAT%20%2F%20EQUAL-0d1117?style=for-the-badge&labelColor=000000&color=00fff2)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+### `//` NAVIGATION
+
+[**About**](#-about-the-collective) · [**Members**](#-collective-members) · [**Featured Profiles**](#-featured-profiles) · [**Tech Arsenal**](#-technical-arsenal) · [**Skill Matrix**](#-skill-matrix) · [**Principles**](#-collective-principles) · [**Connect**](#-connect)
+
+</div>
 
 ---
 
@@ -25,12 +34,18 @@
 
 ```yaml
 collective:    Wolf Intelligence Collective
-domains:       Full-Stack Development • Frontend Engineering • Backend Architecture
-               Security Research • Tool Development • Ethical Hacking
+founded:       Independent / Community-Driven
+domains:
+  - Full-Stack Development
+  - Frontend Engineering
+  - Backend Architecture
+  - Cloud & DevOps
+  - Security Research & Ethical Hacking
+  - Threat Intelligence & Digital Forensics
 structure:     Flat Hierarchy — All Members Equal, All Voices Valued
-mission:       Engineer with excellence. Research ethically. Share knowledge freely.
+motto:         "One Team. One Mind. One Mission."
 principle:     "Strength through unity. Progress through collaboration."
-status:        [ ACTIVE // BUILDING // EVOLVING ]
+status:        [ ACTIVE // BUILDING // EVOLVING // RESEARCHING ]
 ```
 
 </td>
@@ -38,7 +53,9 @@ status:        [ ACTIVE // BUILDING // EVOLVING ]
 </table>
 </div>
 
-We are a collaborative collective of full-stack developers, frontend specialists, backend architects, tools developers, and security researchers. Our foundation rests on equal partnership — no hierarchies, no titles, just shared expertise and mutual respect. We build comprehensive solutions, conduct ethical security research, and continuously sharpen our craft.
+<p align="center">
+We are a collaborative collective of full-stack developers, frontend specialists, backend architects, cloud engineers, and security researchers. Our foundation rests on <b>equal partnership</b> — no hierarchies, no titles, just shared expertise and mutual respect. We build comprehensive solutions, conduct ethical security research, and move as a single unit toward one mission: engineering excellence.
+</p>
 
 <br/>
 
@@ -48,32 +65,101 @@ We are a collaborative collective of full-stack developers, frontend specialists
 
 <div align="center">
 
-| Member | Primary Expertise | Secondary Skills | Status |
-|:---:|:---:|:---:|:---:|
-| 🐺 **ATHEX** | Full-Stack Development | Security Research, System Architecture | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| ⚡ **ZYLON** | Backend Engineering | Systems Architecture, Database Design | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 🎯 **MR ZER0** | Exploit Development | Reverse Engineering, Vulnerability Research | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 🕵️ **MR SPY** | OSINT Research | Reconnaissance, Intelligence Analysis | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 🔥 **HALAKU** | Network Security | Infrastructure Management, Cloud Services | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 💀 **NEXREAPER** | Penetration Testing | Red Team Operations, Security Auditing | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 🅰️ **ALPHA** | Strategy & Operations | Project Coordination, Quality Assurance | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 👑 **LEGEND** | Senior Development | Code Review, Mentorship, Architecture | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 🧠 **CHUHAN** | Frontend Engineering | UI/UX Design, Client-Side Systems | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 🛡️ **ABHEE BHAI** | Application Security | Code Auditing, Secure Development | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 🐍 **SYCO PATHAN** | Malware Analysis | Threat Intelligence, Digital Forensics | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 😈 **BAD BOY** | Tool Development | Automation, Scripting, R&D | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 🌐 **CYBER ARBAB** | Cloud Security | DevSecOps, Container Orchestration | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
-| 💳 **AH CARDER** | Systems Analysis | Data Operations, Performance Optimization | ![Active](https://img.shields.io/badge/ACTIVE-39ff14?style=flat-square&labelColor=000) |
+| # | Callsign | Primary Expertise | Secondary Skills | GitHub |
+|:---:|:---|:---|:---|:---:|
+| 01 | 🐺 **ATHEX** | Full-Stack Development | Security Research, System Architecture | [![GitHub](https://img.shields.io/badge/Athexblackhat-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/Athexblackhat) |
+| 02 | 💀 **NEXREAPER** | Penetration Testing | Red Team Operations, Security Auditing | [![GitHub](https://img.shields.io/badge/NEXREAPER-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/NEXREAPER) |
+| 03 | ⚡ **ZYLON** | Backend Engineering | Systems Architecture, Database Design | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 04 | 🎯 **MR ZER0** | Exploit Development | Reverse Engineering, Vulnerability Research | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 05 | 🕵️ **MR SPY** | OSINT Research | Reconnaissance, Intelligence Analysis | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 06 | 🔥 **HALAKU** | Network Security | Infrastructure Management, Cloud Services | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 07 | 🅰️ **ALPHA** | Strategy & Operations | Project Coordination, Quality Assurance | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 08 | 👑 **LEGEND** | Senior Development | Code Review, Mentorship, Architecture | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 09 | 🧠 **CHUHAN** | Frontend Engineering | UI/UX Design, Client-Side Systems | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 10 | 🛡️ **ABHEE BHAI** | Application Security | Code Auditing, Secure Development | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 11 | 🐍 **SYCO PATHAN** | Malware Analysis | Threat Intelligence, Digital Forensics | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 12 | 😈 **BAD BOY** | Tool Development | Automation, Scripting, R&D | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 13 | 🌐 **CYBER ARBAB** | Cloud Security | DevSecOps, Container Orchestration | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 
 </div>
 
-🤝 **Flat Structure Philosophy:** Every member contributes equally. There are no leaders or subordinates — we operate as peers, each bringing unique expertise to our collaborative projects. Decision-making is collective, credit is shared, and growth is mutual.
+<p align="center">
+🤝 <b>Flat Structure Philosophy:</b> Every member contributes equally. There are no leaders or subordinates — we operate as peers, each bringing unique expertise to our collaborative projects. Decision-making is collective, credit is shared, and growth is mutual. Members marked <code>OFF-GRID</code> operate without public GitHub profiles by choice — their work lives inside the Collective's shared repositories.
+</p>
 
 <br/>
 
 ---
 
-## `//` TECHNICAL CAPABILITIES
+## `//` FEATURED PROFILES
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=The+two+public+faces+of+the+Collective" alt="Featured Typing" />
+</div>
+
+### 🐺 ATHEX
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**Callsign:** `ATHEX`
+**GitHub:** [@Athexblackhat](https://github.com/Athexblackhat)
+**Focus:** Full-Stack Development, System Architecture, Security Research
+
+![Followers](https://img.shields.io/github/followers/Athexblackhat?label=Followers&style=for-the-badge&color=00fff2&labelColor=0d0d0d)
+![Badge](https://img.shields.io/badge/SECURITY%20RESEARCHER-000000?style=for-the-badge&logo=hackthebox&logoColor=00fff2)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Athexblackhat&theme=tokyonight&hide_border=true&background=0d1117&stroke=00fff2&ring=00fff2&fire=00fff2&currStreakLabel=00fff2" width="47%"/>
+</div>
+
+<br/>
+
+### 💀 NEXREAPER
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**Callsign:** `NEXREAPER`
+**GitHub:** [@NEXREAPER](https://github.com/NEXREAPER)
+**Focus:** Penetration Testing, Red Team Operations, Security Auditing
+
+![Followers](https://img.shields.io/github/followers/NEXREAPER?label=Followers&style=for-the-badge&color=00fff2&labelColor=0d0d0d)
+![Badge](https://img.shields.io/badge/RED%20TEAM%20OPERATIVE-000000?style=for-the-badge&logo=hackthebox&logoColor=00fff2)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NEXREAPER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEXREAPER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NEXREAPER&theme=tokyonight&hide_border=true&background=0d1117&stroke=00fff2&ring=00fff2&fire=00fff2&currStreakLabel=00fff2" width="47%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="100%"/>
+</div>
+
+---
+
+## `//` TECHNICAL ARSENAL
 
 <div align="center">
 
@@ -94,6 +180,7 @@ We are a collaborative collective of full-stack developers, frontend specialists
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00fff2)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00fff2)
 ![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=00fff2)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00fff2)
 
 **Frontend Technologies**
 
@@ -122,6 +209,7 @@ We are a collaborative collective of full-stack developers, frontend specialists
 **Infrastructure & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00fff2)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00fff2)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00fff2)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00fff2)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00fff2)
@@ -140,6 +228,27 @@ We are a collaborative collective of full-stack developers, frontend specialists
 
 ---
 
+## `//` SKILL MATRIX
+
+<div align="center">
+
+| Domain | Proficiency | Primary Contributors |
+|:---|:---:|:---|
+| Full-Stack Development | ★★★★★ | ATHEX, LEGEND |
+| Frontend Engineering | ★★★★★ | CHUHAN, ATHEX |
+| Backend Architecture | ★★★★★ | ZYLON, ATHEX |
+| Cloud & DevOps | ★★★★☆ | CYBER ARBAB, HALAKU |
+| Penetration Testing | ★★★★★ | NEXREAPER, MR ZER0 |
+| OSINT & Recon | ★★★★☆ | MR SPY |
+| Malware Analysis / Forensics | ★★★★☆ | SYCO PATHAN |
+| Application Security | ★★★★★ | ABHEE BHAI |
+| Tooling & Automation | ★★★★☆ | BAD BOY |
+| Strategy & QA | ★★★★☆ | ALPHA |
+
+</div>
+
+---
+
 ## `//` COLLECTIVE PRINCIPLES
 
 <div align="center">
@@ -151,6 +260,7 @@ We are a collaborative collective of full-stack developers, frontend specialists
 04 // Research and disclose responsibly, always within ethical bounds.
 05 // Continuously learn, continuously improve.
 06 // Strength through unity, progress through collaboration.
+07 // One team. One mind. One mission.
 ```
 
 </div>
@@ -161,12 +271,13 @@ We are a collaborative collective of full-stack developers, frontend specialists
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub%20Presence-000000?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/Athexblackhat)
+[![ATHEX](https://img.shields.io/badge/ATHEX-000000?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/Athexblackhat)
+[![NEXREAPER](https://img.shields.io/badge/NEXREAPER-000000?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/NEXREAPER)
 ![Contact](https://img.shields.io/badge/CONTACT-DIRECT%20MESSAGE-39ff14?style=for-the-badge&labelColor=000000)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=00FFF2&center=true&vCenter=true&width=600&lines=The+Collective+builds+together.;The+Collective+researches+together.;The+Collective+grows+together." alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=00FFF2&center=true&vCenter=true&width=600&lines=The+Collective+builds+together.;The+Collective+researches+together.;One+team.+One+mind.+One+mission." alt="Footer Typing" />
 
 </div>
 
