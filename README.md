@@ -113,15 +113,15 @@ We are a collaborative collective of full-stack developers, frontend specialists
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats-eight-ivory.vercel.app/api?username=Athexblackhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Athexblackhat&theme=tokyonight&hide_border=true&background=0d1117&stroke=00fff2&ring=00fff2&fire=00fff2&currStreakLabel=00fff2" width="47%"/>
+<img src="https://github-readme-stats-eight-ivory.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
+<img src="https://streak-stats.demolab.com?user=Athexblackhat&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
 </div>
 
 <br/>
@@ -142,7 +142,22 @@ We are a collaborative collective of full-stack developers, frontend specialists
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NEXREAPER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats-eight-ivory.vercel.app/api?username=NEXREAPER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats-eight-ivory.vercel.app/api/top-langs/?username=NEXREAPER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
+<img src="https://streak-stats.demolab.com?user=NEXREAPER&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="100%"/>
+</div>
+
+---
 
 </td>
 </tr>
