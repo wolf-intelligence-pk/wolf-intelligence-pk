@@ -126,7 +126,7 @@ We are a collaborative collective of full-stack developers, frontend specialists
 
 <br/>
 
-### 💀 NEXREAPER
+### ### 💀 NEXREAPER
 
 <table align="center">
 <tr>
@@ -142,7 +142,17 @@ We are a collaborative collective of full-stack developers, frontend specialists
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats-eight-ivory.vercel.app/api?username=NEXREAPER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+<!-- Try this alternative stats API -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NEXREAPER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NEXREAPER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" width="47%"/>
+<img src="https://streak-stats.demolab.com?user=NEXREAPER&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2&sideNums=00FFF2&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
+</div>
 
 </td>
 </tr>
