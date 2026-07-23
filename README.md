@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0d1b2a,100:00fff2&height=300&section=header&text=WOLF%20INTELLIGENCE%20COLLECTIVE&fontSize=42&fontColor=00fff2&animation=fadeIn&fontAlignY=35&desc=One%20Team.%20One%20Mind.%20One%20Mission.&descAlignY=52&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&multiline=true&width=900&height=90&lines=MASTER-MIND" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2000&pause=500&color=00FFF2&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🐺%20HALAKU%20GOKBURU%20—%20MASTER%20MIND%20🐺;The%20Alpha%20—%20The%20Founder%20—%20The%20Supreme%20Commander" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 ```yaml
 collective:    Wolf Intelligence Collective
-founded:       Independent / Community-Driven
+founded:       2026 — By Halaku Gokburu (The Alpha)
 domains:
   - Full-Stack Development
   - Frontend Engineering
@@ -67,19 +67,19 @@ We are a collaborative collective of full-stack developers, frontend specialists
 
 | # | Callsign | Primary Expertise | GitHub |
 |:---:|:---|:---|:---:|
-| 01 | 🐺 **ATHEX** | MASTER MIND | [![GitHub](https://img.shields.io/badge/Athexblackhat-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/Athexblackhat) |
-| 02 | 💀 **NEXREAPER** | MASTER MIND | [![GitHub](https://img.shields.io/badge/NEXREAPER-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/NEXREAPER) |
-| 03 | ⚡ **ZYLON** | MASTER MIND| ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 04 | 🎯 **MR ZER0** | MASTER MIND |  ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 05 | 🕵️ **MR SPY** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 06 | 🔥 **HALAKU** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 07 | 🅰️ **ALPHA** | MASTER MIND |  ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 08 | 👑 **LEGEND** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 09 | 🧠 **CHUHAN** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 10 | 🛡️ **ABHEE BHAI** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 11 | 🐍 **SYCO PATHAN** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 12 | 😈 **BAD BOY** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
-| 13 | 🌐 **CYBER ARBAB** | MASTER MIND | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 00 | 🐺🔥 **HALAKU GOKBURU** | **MASTER MIND — FOUNDER** | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=ff0000) |
+| 01 | 🐺 **ATHEX** | Full-Stack Dev & Security | [![GitHub](https://img.shields.io/badge/Athexblackhat-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/Athexblackhat) |
+| 02 | 💀 **NEXREAPER** | Pen Testing & Red Team | [![GitHub](https://img.shields.io/badge/NEXREAPER-000?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/NEXREAPER) |
+| 03 | ⚡ **ZYLON** | Backend Architecture | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 04 | 🎯 **MR ZER0** | Security Research | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 05 | 🕵️ **MR SPY** | OSINT & Recon | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 06 | 🅰️ **ALPHA** | Strategy & QA | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 07 | 👑 **LEGEND** | Full-Stack Dev | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 08 | 🧠 **CHUHAN** | Frontend Engineering | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 09 | 🛡️ **ABHEE BHAI** | Application Security | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 10 | 🐍 **SYCO PATHAN** | Malware Analysis | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 11 | 😈 **BAD BOY** | Tooling & Automation | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
+| 12 | 🌐 **CYBER ARBAB** | Cloud & DevOps | ![Off-Grid](https://img.shields.io/badge/OFF--GRID-0d1117?style=flat-square&labelColor=000&color=00fff2) |
 
 </div>
 
@@ -94,8 +94,41 @@ We are a collaborative collective of full-stack developers, frontend specialists
 ## `//` FEATURED PROFILES
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=The+two+public+faces+of+the+Collective" alt="Featured Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=The+Alpha+—+The+Founder+—+The+Master+Mind" alt="Featured Typing" />
 </div>
+
+### 🔥🐺 HALAKU GOKBURU — THE ALPHA
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**Callsign:** `HALAKU`
+**Title:** `Founder & Master Mind`
+**Focus:** Full-Stack Architecture, Cloud Engineering, Security Research, Strategic Command
+
+![Badge](https://img.shields.io/badge/MASTER%20MIND-ff0000?style=for-the-badge&labelColor=000000)
+![Badge](https://img.shields.io/badge/FOUNDER-000000?style=for-the-badge&logo=github&logoColor=00fff2)
+![Badge](https://img.shields.io/badge/SUPREME%20COMMANDER-000000?style=for-the-badge&logo=hackthebox&logoColor=00fff2)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github.com/Athexblackhat.png" width="180" style="border-radius:50%; border: 3px solid #00fff2;" alt="Halaku Gokburu avatar"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Athexblackhat&theme=tokyo-night&hide_border=true&background=0D1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideNums=ff0000&sideLabels=C9D1D9&dates=C9D1D9" width="47%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" width="100%"/>
+</div>
+
+<br/>
 
 ### 🐺 ATHEX
 
@@ -156,7 +189,7 @@ We are a collaborative collective of full-stack developers, frontend specialists
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NEXREAPER&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?user=NEXREAPER&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -236,16 +269,16 @@ We are a collaborative collective of full-stack developers, frontend specialists
 
 | Domain | Proficiency | Primary Contributors |
 |:---|:---:|:---|
-| Full-Stack Development | ★★★★★ | ATHEX, LEGEND |
+| Full-Stack Development | ★★★★★ | **HALAKU**, ATHEX, LEGEND |
 | Frontend Engineering | ★★★★★ | CHUHAN, ATHEX |
-| Backend Architecture | ★★★★★ | ZYLON, ATHEX |
-| Cloud & DevOps | ★★★★☆ | CYBER ARBAB, HALAKU |
+| Backend Architecture | ★★★★★ | **HALAKU**, ZYLON, ATHEX |
+| Cloud & DevOps | ★★★★★ | **HALAKU**, CYBER ARBAB |
 | Penetration Testing | ★★★★★ | NEXREAPER, MR ZER0 |
 | OSINT & Recon | ★★★★☆ | MR SPY |
 | Malware Analysis / Forensics | ★★★★☆ | SYCO PATHAN |
 | Application Security | ★★★★★ | ABHEE BHAI |
 | Tooling & Automation | ★★★★☆ | BAD BOY |
-| Strategy & QA | ★★★★☆ | ALPHA |
+| Strategy & QA | ★★★★★ | **HALAKU**, ALPHA |
 
 </div>
 
@@ -256,6 +289,7 @@ We are a collaborative collective of full-stack developers, frontend specialists
 <div align="center">
 
 ```txt
+00 // Halaku Gokburu is the Alpha — The Founder — The Supreme Commander.
 01 // Every member stands equal. No hierarchies, no exceptions.
 02 // Code with integrity. Build with purpose.
 03 // Share knowledge openly within the collective.
